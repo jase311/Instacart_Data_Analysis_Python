@@ -28,4 +28,4 @@ Visualizations were created using Plotly.
 
 # Report
 >[!NOTE]
->Link to the report: [Report](05 Sent to client/Instacart Grocery Basket Analysis report.xlsx).
+>Link to the report: [Report](https://github.com/jase311/Instacart_Data_Analysis_Python/tree/main/05%20Sent%20to%20client).
