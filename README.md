@@ -14,11 +14,16 @@ same methods, and they’re considering a targeted marketing strategy. They want
 
 # Data
 The data for this project was created by Career Foundry and analyzed using Microsoft Excel and Python libraries such as Pandas, Numpy and Plotly to create the visualizations.
->[!NOTE]
-Link to the file:: [Data dictionary.pdf](https://github.com/jase311/Rockbuster_Movies_SQL_Project/blob/main/Data%20dictionary.pdf).
 
 # Tools
+- Pandas: Data Analysis.
+- Numpy: Data Analysis.
+- Plotly: Visualizations.
+- Microsoft Excel: Report.
 
 # Visualization
+Visualizations were created using Plotly.
+>[!NOTE]
+>Link to the visualizations: [Rockbuster Stealth LLC](https://github.com/jase311/Rockbuster_Movies_SQL_Project).
 
-# Reposrt
+# Report
