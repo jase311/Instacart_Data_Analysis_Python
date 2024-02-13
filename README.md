@@ -24,6 +24,8 @@ The data for this project was created by Career Foundry and analyzed using Micro
 # Visualization
 Visualizations were created using Plotly.
 >[!NOTE]
->Link to the visualizations: [Rockbuster Stealth LLC](https://github.com/jase311/Rockbuster_Movies_SQL_Project).
+>Link to the visualizations: [Visualizations folder](https://github.com/jase311/Instacart_Data_Analysis_Python/tree/main/04%20Analysis/Visualizations).
 
 # Report
+>[!NOTE]
+>Link to the report: [Report]().
